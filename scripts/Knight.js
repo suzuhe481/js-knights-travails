@@ -1,0 +1,3 @@
+const Knight = () => {};
+
+export { Knight };
